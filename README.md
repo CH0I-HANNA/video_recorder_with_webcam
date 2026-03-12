@@ -1,7 +1,7 @@
-# 🎥 VisionCapture-Py (Video Recorder)
+# 🎥 video_recorder_with_webcam
 > **My simple video recorder using OpenCV**
 
-이 프로젝트는 OpenCV를 활용하여 카메라 영상을 실시간으로 확인하고, 다양한 필터 적용 및 동영상 녹화가 가능한 비디오 레코더 프로그램입니다. 서울과학기술대학교 컴퓨터공학과 '컴퓨터비전' 교과목 과제의 일환으로 제작되었습니다.
+이 프로젝트는 OpenCV를 활용하여 카메라 영상을 실시간으로 확인하고, 다양한 필터 적용 및 동영상 녹화가 가능한 비디오 레코더 프로그램입니다. 
 
 ## 🚀 주요 기능 (Key Features)
 
@@ -23,7 +23,10 @@
 | **4** | **Flip**: 좌우 반전 (거울 모드) |
 | **ESC** | **프로그램 종료** |
 
-## 📸 실행 화면 (Screenshot)
+## 📸 실행 화면 
+## (Screenshot)
+<img width="1352" height="878" alt="Image" src="https://github.com/user-attachments/assets/5ecd28fc-fe22-4585-908c-bd18b4c6e336" />
+## (video)
 
 
 ## 🛠️ 개발 및 실행 환경
