@@ -25,9 +25,9 @@
 
 ## 📸 실행 화면 
 ## (Screenshot)
-<img width="1352" height="878" alt="Image" src="https://github.com/user-attachments/assets/5ecd28fc-fe22-4585-908c-bd18b4c6e336" />
+<img width="1988" height="1167" alt="Image" src="https://github.com/user-attachments/assets/44878076-2166-4af2-88b0-d993a2dfc300" />
 ## (video)
-
+https://github.com/user-attachments/assets/00cb4508-515d-4242-a606-ffe3d034d97a
 
 ## 🛠️ 개발 및 실행 환경
 * **Language**: Python 
